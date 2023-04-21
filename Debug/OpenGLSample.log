@@ -1,0 +1,23 @@
+﻿  SourceInProgress.cpp
+U:\Multi\OpenGLSample\OpenGLSample\OpenGLSample\OpenGLSample\shader.h(57,34): warning C4101: 'e': unreferenced local variable
+U:\Multi\OpenGLSample\OpenGLSample\OpenGLSample\OpenGLSample\SourceInProgress.cpp(187,2): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+U:\Multi\OpenGLSample\OpenGLSample\OpenGLSample\OpenGLSample\SourceInProgress.cpp(267,2): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+U:\Multi\OpenGLSample\OpenGLSample\OpenGLSample\OpenGLSample\SourceInProgress.cpp(274,2): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+U:\Multi\OpenGLSample\OpenGLSample\OpenGLSample\OpenGLSample\SourceInProgress.cpp(557,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+U:\Multi\OpenGLSample\OpenGLSample\OpenGLSample\OpenGLSample\SourceInProgress.cpp(638,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+U:\Multi\OpenGLSample\OpenGLSample\OpenGLSample\OpenGLSample\SourceInProgress.cpp(639,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+U:\Multi\OpenGLSample\OpenGLSample\OpenGLSample\OpenGLSample\SourceInProgress.cpp(717,73): warning C4305: 'argument': truncation from 'double' to 'float'
+U:\Multi\OpenGLSample\OpenGLSample\OpenGLSample\OpenGLSample\SourceInProgress.cpp(765,74): warning C4305: 'argument': truncation from 'double' to 'float'
+U:\Multi\OpenGLSample\OpenGLSample\OpenGLSample\OpenGLSample\SourceInProgress.cpp(793,67): warning C4305: 'argument': truncation from 'double' to 'float'
+U:\Multi\OpenGLSample\OpenGLSample\OpenGLSample\OpenGLSample\SourceInProgress.cpp(834,72): warning C4305: 'argument': truncation from 'double' to 'float'
+U:\Multi\OpenGLSample\OpenGLSample\OpenGLSample\OpenGLSample\SourceInProgress.cpp(847,68): warning C4305: 'argument': truncation from 'double' to 'float'
+U:\Multi\OpenGLSample\OpenGLSample\OpenGLSample\OpenGLSample\SourceInProgress.cpp(360,22): warning C4101: 'VAO14': unreferenced local variable
+U:\Multi\OpenGLSample\OpenGLSample\OpenGLSample\OpenGLSample\SourceInProgress.cpp(360,15): warning C4101: 'VBO14': unreferenced local variable
+U:\Multi\OpenGLSample\OpenGLSample\OpenGLSample\OpenGLSample\SourceInProgress.cpp(895,20): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+U:\Multi\OpenGLSample\OpenGLSample\OpenGLSample\OpenGLSample\SourceInProgress.cpp(955,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+U:\Multi\OpenGLSample\OpenGLSample\OpenGLSample\OpenGLSample\SourceInProgress.cpp(956,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+U:\Multi\OpenGLSample\OpenGLSample\OpenGLSample\OpenGLSample\SourceInProgress.cpp(960,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+U:\Multi\OpenGLSample\OpenGLSample\OpenGLSample\OpenGLSample\SourceInProgress.cpp(961,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+U:\Multi\OpenGLSample\OpenGLSample\OpenGLSample\OpenGLSample\SourceInProgress.cpp(962,10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+U:\Multi\OpenGLSample\OpenGLSample\OpenGLSample\OpenGLSample\SourceInProgress.cpp(963,10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  OpenGLSample.vcxproj -> U:\Multi\OpenGLSample\OpenGLSample\OpenGLSample\Debug\OpenGLSample.exe
